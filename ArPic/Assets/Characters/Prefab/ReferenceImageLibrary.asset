@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5225925775656358357
+  m_GuidHigh: 13436554104643604611
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5733147543809931389
+      m_GuidHigh: 17545526776792939684
+    m_SerializedTextureGuid:
+      m_GuidLow: 11422437082887446341
+      m_GuidHigh: 17921064439831737723
+    m_Size: {x: 0.1, y: 0.11016667}
+    m_SpecifySize: 1
+    m_Name: Marker1
+    m_Texture: {fileID: 2800000, guid: 1ac15f45a6029e847b350e7d2869b4f8, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5390390872008748163
+      m_GuidHigh: 4038561302819649211
+    m_SerializedTextureGuid:
+      m_GuidLow: 4644596841287552476
+      m_GuidHigh: 7449606044953531579
+    m_Size: {x: 0.1, y: 0.083939396}
+    m_SpecifySize: 1
+    m_Name: Marker2
+    m_Texture: {fileID: 2800000, guid: 11d88ddcec384074bbd40e6a3a516267, type: 3}
